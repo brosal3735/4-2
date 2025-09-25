@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Page 2 — Received Text</title>
+</head>
+<body>
+  <h1>Received Text</h1>
+  <p id="output"></p>
+
+  <script src="shared.js"></script>
+</body>
+</html>

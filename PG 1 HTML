@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Page 1 — Enter Text</title>
+</head>
+<body>
+  <h1>My name is brosal3735</h1>
+  <p>Type something to transfer to Page 2:</p>
+  <input id="textInput" type="text" placeholder="e.g., brosal3735" />
+  <button id="sendBtn">Send to Page 2</button>
+
+  <script src="shared.js"></script>
+</body>
+</html>
